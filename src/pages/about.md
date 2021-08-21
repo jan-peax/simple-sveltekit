@@ -1,7 +1,7 @@
 ---
-title: My Title
----
+title: About
 
+---
 # About
 
-This is the about page
+This is the new about page
