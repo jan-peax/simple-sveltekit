@@ -1,5 +1,6 @@
 ---
 title: About
+image: "/uploads/bitmap.png"
 
 ---
 # About
